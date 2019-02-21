@@ -21,3 +21,9 @@ var bear = {
     deadly: true
 
 };
+var countries = [
+    'india'
+     'pakistan',
+    'china',
+    'japan',
+];
